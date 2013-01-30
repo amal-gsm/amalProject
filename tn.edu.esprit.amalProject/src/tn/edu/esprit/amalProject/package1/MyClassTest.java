@@ -7,6 +7,7 @@ public class MyClassTest {
 	 */
 	public static void main(String[] args) {
 		System.out.println("hi amal ...");
+		System.out.println("seif say hello ...");
 
 	}
 
